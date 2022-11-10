@@ -1,6 +1,7 @@
 site_name: issue-pkg
 nav:
-  - Issues: index.md
+  # - Issues: index.md
   - Solutions: issues.md
-  
+  - Improved solutions: solution.md
+
 theme: readthedocs
